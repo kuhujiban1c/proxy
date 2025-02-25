@@ -3962,7 +3962,7 @@
 43.218.77.16,1443,ID,Amazon.com
 35.219.50.99,443,ID,Google LLC
 35.219.15.90,443,ID,Google LLC
-172.232.239.219:587,ID
+172.232.239.219:587,ID,Akamai Connected Cloud
 172.232.252.119:587,ID,Akamai Connected Cloud
 172.232.249.190:587,ID,Akamai Connected Cloud
 172.232.238.103:587,ID,Akamai Connected Cloud
